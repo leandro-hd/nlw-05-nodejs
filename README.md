@@ -108,6 +108,8 @@ Painel de antendimento — Imagem 01 | Painel de antendimento — Imagem 02
 
 <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leandrohg2003@gmail.com" alt="Gmail"/>
 
+</p>
+
 <br/>
 
 <h2 id="license"> 📝 Licença </h2>
